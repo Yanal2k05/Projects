@@ -1,21 +1,5 @@
-/*
-  Student Name: Yanal Abu Rahmeh
-  Student ID: 1284819
-  Due Date: March, 8, 2024
-  Course: CIS*2500
+#include "givenA2.h"
 
-  I have exclusive control over this submission via my password.
-  By including this header comment, I certify that:
-   1) I have read and understood the policy on academic integrity.
-   2) I have completed Moodle's module on academic integrity.
-   3) I have achieved at least 80% on the academic integrity quiz
-  I assert that this work is my own. I have appropriate acknowledged
-  any and all material that I have used, be it directly quoted or
-  paraphrased. Furthermore, I certify that this assignment was written
-  by me in its entirety.
-*/
-
-#include "../include/givenA2.h"
 #define SIZE 200
 
 int searchContacts(char *fileName, int keyId) // function to search for a contact based on their id
