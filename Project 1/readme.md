@@ -5,6 +5,8 @@ Car Rental Management: This program manages cars in three lists—available, ren
 
 RPN This program evaluates postfix mathematical expressions (RPN) using a linked-list-based stack. It takes an expression from the command line and computes the result, ensuring that errors (like invalid input) are properly handled.
 
+## Test Cases
+I made an autograder with with different graphs and error handling
 
 ## Resources 
 I used zybook, StackOverflow and geeksforgeeks.
