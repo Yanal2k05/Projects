@@ -1,9 +1,3 @@
-/*
-Name: Yanal Abu Rahmeh
-Student ID: 1284819
-Assignment 3, Question 1
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
