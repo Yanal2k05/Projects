@@ -1,8 +1,8 @@
-abuRahmehYanalA1: abuRahmehYanalA1.o abuRahmehYanalA1Main.o
-	gcc -Wall -std=c99 abuRahmehYanalA1.o abuRahmehYanalA1Main.o -lm -o abuRahmehYanalA1
-abuRahmehYanalA1.o: abuRahmehYanalA1.c givenA1.h
-	gcc -Wall -std=c99 -Wall -std=c99 -c abuRahmehYanalA1.c
-abuRahmehYanalA1Main.o: abuRahmehYanalA1Main.c givenA1.h
-	gcc -Wall -std=c99 -Wall -std=c99 -c abuRahmehYanalA1Main.c 
+zooStats: zooStats.o zooStatsMain.o
+	gcc -Wall -std=c99 zooStats.o zooStatsMain.c -lm -o zooStats
+zooStats.o: zooStats.c givenA1.h
+	gcc -Wall -std=c99 -Wall -std=c99 -c zooStats.c
+zooStatsMain.o: zooStatsMain.c givenA1.h
+	gcc -Wall -std=c99 -Wall -std=c99 -c zooStatsMain.c 
 clean:
-	rm *.o abuRahmehYanalA1
+	rm *.o zooStats
