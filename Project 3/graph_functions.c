@@ -1,18 +1,3 @@
-/*
-Name: Yanal Abu Rahmeh
-Student ID: 1284819
-Assignment 4
-Due date: December 1, 2024
-course ID: CIS*2520
-
-I have exclusive control over this submission via my password.
-By including this statement in this header, I certify that
-I have read and understood the University policy in academic
-integrity and I assert that this work is my own. Furthermore, I certify that is assignment was prepared 
-by me specifically for this course.
-
-*/
-
 #include "graph.h"
 
 /* function will display the primary user interface
